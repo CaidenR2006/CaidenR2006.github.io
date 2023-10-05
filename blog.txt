@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="index.html">Home</a></li>
+  <li><a href="coaching.html">Coaching</a></li>
+  <li><a href="blog.html">Blog</a></li>
+</ul>
+
+<h1>Gaming With Emotions</h1>
+<p>Games can have a powerful impact on emotions. They can induce feelings of excitement, fear, happiness, and even aggression. For example, games that involve violence or competition can trigger aggressive emotions in some players. On the other hand, games that promote cooperation and teamwork can foster positive emotions and socialization. 
+
+https://www.linkedin.com/pulse/game-psychology-impact-bleedingedgestudio#:~:text=They%20can%20induce%20feelings%20of,foster%20positive%20emotions%20and%20socialization</p>
+<hr>
+
+<h2>Minecraft Game Review</h2>
+<p>Minecraft, a global phenomenon since its introduction on PCs a few years back, continues to captivate players worldwide. The game's essence lies in crafting tools from gathered materials to construct structures like mansions through mining. Its Xbox version offers cooperative play and a unique crafting system. While exploring its mesmerizing landscapes, players must be cautious of hostile creatures like the infamous Creeper. Whether day or night, avoiding this creature is essential. The game's dynamic nature offers a plethora of achievements for players to unlock as they progress, such as crafting a furnace, opening their inventory for the first time, or even successfully catching a fish.
+
+https://scoutlife.org/games/game-reviews/30053/minecraft-game-review/</p>
+<hr>
+
+<h3>Dream PC Build</h3>
+<p>My dream rig is a desktop PC. I would buy the NZXT Player: Three AMD edition. It is perfect for me since I am into games and want to have the best performance I can get.</p>
+<hr>
+
+<h4>Toxicity in Gaming</h4>
+<p>Toxicity within gaming is when someone verbally assaults someone based on their skill within the game. The most common form of toxicity is swearing and overall being rude. It is important to understand what toxicity is in gaming so we can help prevent it and prevent the repercussions that can happen. We can combat toxicity by not feeding into the person who is being toxic.
+
+
+https://getkidas.com/what-is-a-toxic-gamer/#:~:text=A%20toxic%20gamer%20is%20a,players%20are%20considered%20toxic%20players.</p>
+<hr>
+
+<h5>Best ESports Teams</h5>
+<p>The best esports teams practice the events beforehand together on the specific maps to know where things are to get a better advantage and understanding of the map. They communicate very well with each other by calling out specific people that could be dangerous and understanding the competition. Things that can always improve is possible toxicity within the team.</p>
+<hr>
+
+<img src="bananaclip.png">
+
+
+</body>
+</html>

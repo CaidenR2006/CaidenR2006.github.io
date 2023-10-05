@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="index.html">Home</a></li>
+  <li><a href="coaching.html">Coaching</a></li>
+  <li><a href="blog.html">Blog</a></li>
+</ul>
+
+<h1>Passing</h1>
+<p>Passing is a very key aspect within Retro Bowl. It separates great teams from elite teams in the game. There are two types of passing in Retro Bowl. Bullet passing and Lob passing. Lob passing is much easier for your WRs to catch the ball and to be accurate. Bullet passing is for more skillful players within the community and is to help your WRs catch and run even better than Lob passing.</p>
+<hr>
+
+<h1>Rushing</h1>
+<p>Rushing the ball can help in short yardage scenarios such as 3rd/4th and 3 or less.<br>Rushing the ball in general is harder since the defense is more likely to stop your running back. It is important to have still if your WRs aren't super good or you only have 1 good WR</p>
+<hr>
+
+<h1>Recruiting</h1>
+<h3>Offense</h3>
+<p>Probably the most important side of the ball in the game. There are certain aspects you need to recruit for your team to be really elite.</p>
+<h3>Defense</h3>
+<p>Defense while isn't as important is still necessary to hold the other teams offense from scoring.</p>
+<hr>
+
+<h1>Making the Right Choice</h1>
+<p>Making the right decision is important not only for your players, but for the fans and coaching</p>
+<hr>
+
+<h1>What Coaching Credits are used for</h1>
+<p>There are many aspects coaching credits are used for such as players, coaching and facilities</p>
+<hr>
+
+</body>
+</html>
